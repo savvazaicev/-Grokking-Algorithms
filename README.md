@@ -1,2 +1,2 @@
-# -Grokking-Algorithms
+# Grokking-Algorithms
 solving exercises on Kotlin
