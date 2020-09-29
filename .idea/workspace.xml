@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b68156ed-0a1d-4fae-b1eb-72916fdd7c2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter7/Task1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/Task2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/визуализация.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +30,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="inlay.hints.kotlin" />
   </component>
   <component name="RecentsManager">
@@ -41,7 +45,7 @@
       <recent name="E:\tasks\Grokking-Algorithms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Task1 (1)">
+  <component name="RunManager" selected="Kotlin.Task2 (1)">
     <configuration name="Task1 (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Grokking-Algorithms" />
       <option name="VM_PARAMETERS" />
@@ -55,14 +59,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Task2 (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Grokking-Algorithms" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter4.Task1" />
+      <option name="MAIN_CLASS_NAME" value="chapter9.Task2" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Task2 (1)" />
         <item itemvalue="Kotlin.Task1 (1)" />
         <item itemvalue="Kotlin.Task3" />
         <item itemvalue="Kotlin.Task4" />
         <item itemvalue="Kotlin.Task2" />
-        <item itemvalue="Kotlin.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -128,46 +132,53 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="525" height="570" key="DebuggerActiveHint" timestamp="1601302973729">
+    <state width="525" height="570" key="DebuggerActiveHint" timestamp="1601396958397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="525" height="570" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1601302973729" />
-    <state width="972" height="293" key="GridCell.Tab.0.bottom" timestamp="1601304985777">
+    <state width="525" height="570" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1601396958397" />
+    <state width="1211" height="369" key="GridCell.Tab.0.bottom" timestamp="1601397425996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="972" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601304985777" />
-    <state width="972" height="293" key="GridCell.Tab.0.center" timestamp="1601304985777">
+    <state width="1211" height="369" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601397425996" />
+    <state width="1211" height="369" key="GridCell.Tab.0.center" timestamp="1601397425996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="972" height="293" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601304985777" />
-    <state width="972" height="293" key="GridCell.Tab.0.left" timestamp="1601304985776">
+    <state width="1211" height="369" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601397425996" />
+    <state width="1211" height="369" key="GridCell.Tab.0.left" timestamp="1601397425995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="972" height="293" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601304985776" />
-    <state width="972" height="293" key="GridCell.Tab.0.right" timestamp="1601304985777">
+    <state width="1211" height="369" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601397425995" />
+    <state width="1211" height="369" key="GridCell.Tab.0.right" timestamp="1601397425996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="972" height="293" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601304985777" />
-    <state width="972" height="366" key="GridCell.Tab.1.bottom" timestamp="1601302984457">
+    <state width="1211" height="369" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601397425996" />
+    <state width="1211" height="369" key="GridCell.Tab.1.bottom" timestamp="1601397425996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="972" height="366" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601302984457" />
-    <state width="972" height="366" key="GridCell.Tab.1.center" timestamp="1601302984457">
+    <state width="1211" height="369" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601397425996" />
+    <state width="1211" height="369" key="GridCell.Tab.1.center" timestamp="1601397425996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="972" height="366" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601302984457" />
-    <state width="972" height="366" key="GridCell.Tab.1.left" timestamp="1601302984457">
+    <state width="1211" height="369" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601397425996" />
+    <state width="1211" height="369" key="GridCell.Tab.1.left" timestamp="1601397425996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="972" height="366" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601302984457" />
-    <state width="972" height="366" key="GridCell.Tab.1.right" timestamp="1601302984457">
+    <state width="1211" height="369" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601397425996" />
+    <state width="1211" height="369" key="GridCell.Tab.1.right" timestamp="1601397425996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="972" height="366" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601302984457" />
+    <state width="1211" height="369" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601397425996" />
     <state x="0" y="81" key="SettingsEditor" timestamp="1601292472460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="81" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601292472460" />
+    <state x="0" y="192" width="1230" height="785" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601374288100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="192" width="1230" height="785" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1601374288100" />
   </component>
 </project>
